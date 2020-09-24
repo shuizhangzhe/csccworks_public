@@ -2,7 +2,6 @@
 
 1、下载并安装以下包：
 【pymysql】
-【urllib】
 【selenium】
 【BeautifulSoup】
 【requests】
